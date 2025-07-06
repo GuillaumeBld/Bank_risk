@@ -1,0 +1,10 @@
+PD calculated for 1188 rows
+count    7.300000e+01
+mean     1.253710e-78
+std      1.071170e-77
+min      0.000000e+00
+25%      0.000000e+00
+50%      0.000000e+00
+75%      0.000000e+00
+max      9.152082e-77
+Name: probability_of_default, dtype: float64

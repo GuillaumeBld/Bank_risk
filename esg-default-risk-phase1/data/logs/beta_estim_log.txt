@@ -1,0 +1,7 @@
+Total valid regressions: 1512
+Total insufficient data: 0
+
+Beta summary stats:
+beta_mkt: mean=0.010, std=0.009, min=-0.040, max=0.077
+beta_smb: mean=0.014, std=0.031, min=-0.044, max=1.136
+beta_hml: mean=0.009, std=0.019, min=-0.035, max=0.636

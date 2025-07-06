@@ -1,0 +1,6 @@
+File 1: esg-default-risk-phase1/data/raw/annual_returns-5-20-2025.csv
+Shape: (1191, 31)
+Columns: ['Count', 'Instrument', 'Instrument.1', 'Date', 'Rit-Rf', 'Rit', 'new wacc', 'Environmental Pillar Score', 'Social Pillar Score', 'Governance Pillar Score', 'ESG Score', 'Environmental Pillar Score -1', 'Social Pillar Score -1', 'Governance Pillar Score -1', 'ESG Score -1', 'ESG Combined Score', 'ESG Combined Score -1', 'Total Assets', 'Debt - Total', 'Price to Book Value per Share', 'Capital Adequacy - Total (%)', 'Weighted Average Cost of Capital, (%)', 'Beta_levered', 'WACC Tax Rate, (%)', 'WACC Cost of Debt, (%)', 'WACC Debt Weight, (%)', 'WACC Equity Weight, (%)', 'lnTA', 'TD/TA', 'D/E', 'Beta_unlevered']
+File 2: esg-default-risk-phase1/data/raw/F-F_Research_Data_Factors.csv
+Shape: (1288, 5)
+Columns: ['192607', '2.89', '-2.55', '-2.39', '0.22']

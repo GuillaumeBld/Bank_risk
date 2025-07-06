@@ -1,0 +1,946 @@
+Missing data for ABCB.N on 2016-12-31
+Missing data for ABCB.N on 2017-12-31
+Missing data for ABCB.N on 2018-12-31
+Missing data for ABCB.N on 2019-12-31
+Missing data for ABCB.N on 2020-12-31
+Missing data for ACNB.OQ on 2016-12-31
+Missing data for ACNB.OQ on 2017-12-31
+Missing data for ACNB.OQ on 2018-12-31
+Missing data for ACNB.OQ on 2019-12-31
+Missing data for ACNB.OQ on 2020-12-31
+Missing data for AROW.OQ on 2016-12-31
+Missing data for AROW.OQ on 2017-12-31
+Error fetching AROW.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['AROW.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for AROW.OQ on 2019-12-31
+Missing data for AROW.OQ on 2020-12-31
+Missing data for ASB.N on 2016-12-31
+Missing data for ASB.N on 2017-12-31
+Missing data for ASB.N on 2018-12-31
+Missing data for ASB.N on 2019-12-31
+Missing data for ASB.N on 2020-12-31
+Missing data for ATLO.OQ on 2016-12-31
+Error fetching ATLO.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['ATLO.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for ATLO.OQ on 2018-12-31
+Missing data for ATLO.OQ on 2019-12-31
+Missing data for ATLO.OQ on 2020-12-31
+Missing data for AUBN.OQ on 2016-12-31
+Missing data for AUBN.OQ on 2017-12-31
+Missing data for AUBN.OQ on 2018-12-31
+Missing data for AUBN.OQ on 2019-12-31
+Missing data for AUBN.OQ on 2020-12-31
+Missing data for BAC.N on 2016-12-31
+Missing data for BAC.N on 2017-12-31
+Missing data for BAC.N on 2018-12-31
+Missing data for BAC.N on 2019-12-31
+Missing data for BAC.N on 2020-12-31
+Missing data for BANC.N on 2016-12-31
+Missing data for BANC.N on 2017-12-31
+Missing data for BANC.N on 2018-12-31
+Missing data for BANC.N on 2019-12-31
+Missing data for BANC.N on 2020-12-31
+Missing data for BANF.OQ on 2016-12-31
+Error fetching BANF.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['BANF.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for BANF.OQ on 2018-12-31
+Missing data for BANF.OQ on 2019-12-31
+Missing data for BANF.OQ on 2020-12-31
+Missing data for BANR.OQ on 2016-12-31
+Missing data for BANR.OQ on 2017-12-31
+Missing data for BANR.OQ on 2018-12-31
+Missing data for BANR.OQ on 2019-12-31
+Missing data for BANR.OQ on 2020-12-31
+Error fetching BCBP.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['BCBP.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for BCBP.OQ on 2017-12-31
+Missing data for BCBP.OQ on 2018-12-31
+Error fetching BCBP.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['BCBP.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for BCBP.OQ on 2020-12-31
+Missing data for BFIN.OQ on 2016-12-31
+Missing data for BFIN.OQ on 2017-12-31
+Missing data for BFIN.OQ on 2018-12-31
+Missing data for BFIN.OQ on 2019-12-31
+Missing data for BFIN.OQ on 2020-12-31
+Missing data for BHB.A on 2016-12-31
+Missing data for BHB.A on 2017-12-31
+Error fetching BHB.A 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['BHB.A']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for BHB.A on 2019-12-31
+Error fetching BHB.A 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['BHB.A']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for BHLB.N on 2016-12-31
+Missing data for BHLB.N on 2017-12-31
+Error fetching BHLB.N 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['BHLB.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for BHLB.N on 2019-12-31
+Missing data for BHLB.N on 2020-12-31
+Missing data for BKU.N on 2016-12-31
+Missing data for BKU.N on 2017-12-31
+Missing data for BKU.N on 2018-12-31
+Missing data for BKU.N on 2019-12-31
+Missing data for BKU.N on 2020-12-31
+Missing data for BMRC.OQ on 2016-12-31
+Missing data for BMRC.OQ on 2017-12-31
+Missing data for BMRC.OQ on 2018-12-31
+Missing data for BMRC.OQ on 2019-12-31
+Missing data for BMRC.OQ on 2020-12-31
+Missing data for BOH.N on 2016-12-31
+Missing data for BOH.N on 2017-12-31
+Error fetching BOH.N 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['BOH.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for BOH.N on 2019-12-31
+Error fetching BOH.N 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['BOH.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for BOKF.OQ on 2016-12-31
+Error fetching BOKF.OQ 2017-12-31: Error code -1 | Backend error. 400 Bad Request Requested universes: ['BOKF.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for BOKF.OQ on 2018-12-31
+Missing data for BOKF.OQ on 2019-12-31
+Missing data for BOKF.OQ on 2020-12-31
+Missing data for BRKL.OQ on 2016-12-31
+Missing data for BRKL.OQ on 2017-12-31
+Missing data for BRKL.OQ on 2018-12-31
+Missing data for BRKL.OQ on 2019-12-31
+Missing data for BRKL.OQ on 2020-12-31
+Missing data for BSRR.OQ on 2016-12-31
+Missing data for BSRR.OQ on 2017-12-31
+Missing data for BSRR.OQ on 2018-12-31
+Missing data for BSRR.OQ on 2019-12-31
+Missing data for BSRR.OQ on 2020-12-31
+Missing data for BUSE.OQ on 2016-12-31
+Missing data for BUSE.OQ on 2017-12-31
+Missing data for BUSE.OQ on 2018-12-31
+Missing data for BUSE.OQ on 2019-12-31
+Missing data for BUSE.OQ on 2020-12-31
+Missing data for BWFG.OQ on 2016-12-31
+Missing data for BWFG.OQ on 2017-12-31
+Missing data for BWFG.OQ on 2018-12-31
+Missing data for BWFG.OQ on 2019-12-31
+Missing data for BWFG.OQ on 2020-12-31
+Missing data for CAC.OQ on 2016-12-31
+Missing data for CAC.OQ on 2017-12-31
+Missing data for CAC.OQ on 2018-12-31
+Missing data for CAC.OQ on 2019-12-31
+Missing data for CAC.OQ on 2020-12-31
+Missing data for CADE.N on 2016-12-31
+Missing data for CADE.N on 2017-12-31
+Missing data for CADE.N on 2018-12-31
+Missing data for CADE.N on 2019-12-31
+Missing data for CADE.N on 2020-12-31
+Missing data for CATY.OQ on 2016-12-31
+Missing data for CATY.OQ on 2017-12-31
+Missing data for CATY.OQ on 2018-12-31
+Missing data for CATY.OQ on 2019-12-31
+Missing data for CATY.OQ on 2020-12-31
+Missing data for CBAN.N on 2016-12-31
+Missing data for CBAN.N on 2017-12-31
+Missing data for CBAN.N on 2018-12-31
+Missing data for CBAN.N on 2019-12-31
+Missing data for CBAN.N on 2020-12-31
+Missing data for CBFV.OQ on 2016-12-31
+Missing data for CBFV.OQ on 2017-12-31
+Missing data for CBFV.OQ on 2018-12-31
+Missing data for CBFV.OQ on 2019-12-31
+Missing data for CBFV.OQ on 2020-12-31
+Missing data for CBSH.OQ on 2016-12-31
+Missing data for CBSH.OQ on 2017-12-31
+Missing data for CBSH.OQ on 2018-12-31
+Missing data for CBSH.OQ on 2019-12-31
+Missing data for CBSH.OQ on 2020-12-31
+Missing data for CBU.N on 2016-12-31
+Missing data for CBU.N on 2017-12-31
+Missing data for CBU.N on 2018-12-31
+Missing data for CBU.N on 2019-12-31
+Missing data for CBU.N on 2020-12-31
+Missing data for CCBG.OQ on 2016-12-31
+Missing data for CCBG.OQ on 2017-12-31
+Missing data for CCBG.OQ on 2018-12-31
+Missing data for CCBG.OQ on 2019-12-31
+Missing data for CCBG.OQ on 2020-12-31
+Missing data for CCNE.OQ on 2016-12-31
+Missing data for CCNE.OQ on 2017-12-31
+Missing data for CCNE.OQ on 2018-12-31
+Missing data for CCNE.OQ on 2019-12-31
+Missing data for CCNE.OQ on 2020-12-31
+Missing data for CFFI.OQ on 2016-12-31
+Missing data for CFFI.OQ on 2017-12-31
+Missing data for CFFI.OQ on 2018-12-31
+Missing data for CFFI.OQ on 2019-12-31
+Missing data for CFFI.OQ on 2020-12-31
+Missing data for CFG.N on 2016-12-31
+Missing data for CFG.N on 2017-12-31
+Missing data for CFG.N on 2018-12-31
+Missing data for CFG.N on 2019-12-31
+Missing data for CFG.N on 2020-12-31
+Missing data for CFR.N on 2016-12-31
+Missing data for CFR.N on 2017-12-31
+Missing data for CFR.N on 2018-12-31
+Missing data for CFR.N on 2019-12-31
+Missing data for CFR.N on 2020-12-31
+Missing data for CHCO.OQ on 2016-12-31
+Missing data for CHCO.OQ on 2017-12-31
+Missing data for CHCO.OQ on 2018-12-31
+Missing data for CHCO.OQ on 2019-12-31
+Missing data for CHCO.OQ on 2020-12-31
+Missing data for CHMG.OQ on 2016-12-31
+Missing data for CHMG.OQ on 2017-12-31
+Missing data for CHMG.OQ on 2018-12-31
+Missing data for CHMG.OQ on 2019-12-31
+Missing data for CHMG.OQ on 2020-12-31
+Missing data for CIVB.OQ on 2016-12-31
+Missing data for CIVB.OQ on 2017-12-31
+Error fetching CIVB.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['CIVB.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for CIVB.OQ on 2019-12-31
+Missing data for CIVB.OQ on 2020-12-31
+Missing data for CMA.N on 2016-12-31
+Missing data for CMA.N on 2017-12-31
+Missing data for CMA.N on 2018-12-31
+Missing data for CMA.N on 2019-12-31
+Missing data for CMA.N on 2020-12-31
+Missing data for CNOB.OQ on 2016-12-31
+Missing data for CNOB.OQ on 2017-12-31
+Missing data for CNOB.OQ on 2018-12-31
+Missing data for CNOB.OQ on 2019-12-31
+Missing data for CNOB.OQ on 2020-12-31
+Missing data for COLB.OQ on 2016-12-31
+Missing data for COLB.OQ on 2017-12-31
+Missing data for COLB.OQ on 2018-12-31
+Missing data for COLB.OQ on 2019-12-31
+Missing data for COLB.OQ on 2020-12-31
+Error fetching CPF.N 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['CPF.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for CPF.N on 2017-12-31
+Error fetching CPF.N 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['CPF.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for CPF.N on 2019-12-31
+Missing data for CPF.N on 2020-12-31
+Error fetching CTBI.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['CTBI.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for CTBI.OQ on 2017-12-31
+Missing data for CTBI.OQ on 2018-12-31
+Missing data for CTBI.OQ on 2019-12-31
+Error fetching CTBI.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['CTBI.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for CUBI.N on 2016-12-31
+Missing data for CUBI.N on 2017-12-31
+Missing data for CUBI.N on 2018-12-31
+Missing data for CUBI.N on 2019-12-31
+Missing data for CUBI.N on 2020-12-31
+Missing data for CVBF.OQ on 2016-12-31
+Missing data for CVBF.OQ on 2017-12-31
+Missing data for CVBF.OQ on 2018-12-31
+Missing data for CVBF.OQ on 2019-12-31
+Missing data for CVBF.OQ on 2020-12-31
+Missing data for CZNC.OQ on 2016-12-31
+Missing data for CZNC.OQ on 2017-12-31
+Missing data for CZNC.OQ on 2018-12-31
+Missing data for CZNC.OQ on 2019-12-31
+Missing data for CZNC.OQ on 2020-12-31
+Missing data for DCOM.OQ on 2016-12-31
+Missing data for DCOM.OQ on 2017-12-31
+Missing data for DCOM.OQ on 2018-12-31
+Missing data for DCOM.OQ on 2019-12-31
+Missing data for DCOM.OQ on 2020-12-31
+Error fetching DFS.N 2016-12-31: Error code -1 | Unable to resolve all requested identifiers in ['DFS.N'].
+Error fetching DFS.N 2017-12-31: Error code -1 | Unable to resolve all requested identifiers in ['DFS.N'].
+Error fetching DFS.N 2018-12-31: Error code -1 | Unable to resolve all requested identifiers in ['DFS.N'].
+Error fetching DFS.N 2019-12-31: Error code -1 | Unable to resolve all requested identifiers in ['DFS.N'].
+Error fetching DFS.N 2020-12-31: Error code -1 | Unable to resolve all requested identifiers in ['DFS.N'].
+Missing data for EBMT.OQ on 2016-12-31
+Missing data for EBMT.OQ on 2017-12-31
+Error fetching EBMT.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['EBMT.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching EBMT.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['EBMT.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for EBMT.OQ on 2020-12-31
+Error fetching EBTC.OQ 2016-12-31: Error code -1 | Unable to resolve all requested identifiers in ['EBTC.OQ'].
+Error fetching EBTC.OQ 2017-12-31: Error code -1 | Unable to resolve all requested identifiers in ['EBTC.OQ'].
+Error fetching EBTC.OQ 2018-12-31: Error code -1 | Unable to resolve all requested identifiers in ['EBTC.OQ'].
+Error fetching EBTC.OQ 2019-12-31: Error code -1 | Unable to resolve all requested identifiers in ['EBTC.OQ'].
+Error fetching EBTC.OQ 2020-12-31: Error code -1 | Unable to resolve all requested identifiers in ['EBTC.OQ'].
+Error fetching EFSC.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['EFSC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for EFSC.OQ on 2017-12-31
+Missing data for EFSC.OQ on 2018-12-31
+Missing data for EFSC.OQ on 2019-12-31
+Missing data for EFSC.OQ on 2020-12-31
+Missing data for EGBN.OQ on 2016-12-31
+Missing data for EGBN.OQ on 2017-12-31
+Missing data for EGBN.OQ on 2018-12-31
+Missing data for EGBN.OQ on 2019-12-31
+Missing data for EGBN.OQ on 2020-12-31
+Missing data for EVBN.A on 2016-12-31
+Error fetching EVBN.A 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['EVBN.A']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for EVBN.A on 2018-12-31
+Missing data for EVBN.A on 2019-12-31
+Error fetching EVBN.A 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['EVBN.A']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for EWBC.OQ on 2016-12-31
+Missing data for EWBC.OQ on 2017-12-31
+Missing data for EWBC.OQ on 2018-12-31
+Missing data for EWBC.OQ on 2019-12-31
+Missing data for EWBC.OQ on 2020-12-31
+Missing data for FBIZ.OQ on 2016-12-31
+Missing data for FBIZ.OQ on 2017-12-31
+Missing data for FBIZ.OQ on 2018-12-31
+Missing data for FBIZ.OQ on 2019-12-31
+Missing data for FBIZ.OQ on 2020-12-31
+Missing data for FBNC.OQ on 2016-12-31
+Missing data for FBNC.OQ on 2017-12-31
+Missing data for FBNC.OQ on 2018-12-31
+Missing data for FBNC.OQ on 2019-12-31
+Missing data for FBNC.OQ on 2020-12-31
+Error fetching FCAP.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FCAP.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching FCAP.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FCAP.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FCAP.OQ on 2018-12-31
+Missing data for FCAP.OQ on 2019-12-31
+Missing data for FCAP.OQ on 2020-12-31
+Missing data for FCBC.OQ on 2016-12-31
+Missing data for FCBC.OQ on 2017-12-31
+Missing data for FCBC.OQ on 2018-12-31
+Error fetching FCBC.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FCBC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FCBC.OQ on 2020-12-31
+Missing data for FCCO.OQ on 2016-12-31
+Error fetching FCCO.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FCCO.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FCCO.OQ on 2018-12-31
+Missing data for FCCO.OQ on 2019-12-31
+Error fetching FCCO.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FCCO.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FCF.N on 2016-12-31
+Missing data for FCF.N on 2017-12-31
+Missing data for FCF.N on 2018-12-31
+Missing data for FCF.N on 2019-12-31
+Missing data for FCF.N on 2020-12-31
+Missing data for FCNCA.OQ on 2016-12-31
+Missing data for FCNCA.OQ on 2017-12-31
+Missing data for FCNCA.OQ on 2018-12-31
+Missing data for FCNCA.OQ on 2019-12-31
+Missing data for FCNCA.OQ on 2020-12-31
+Missing data for FFBC.OQ on 2016-12-31
+Missing data for FFBC.OQ on 2017-12-31
+Missing data for FFBC.OQ on 2018-12-31
+Missing data for FFBC.OQ on 2019-12-31
+Missing data for FFBC.OQ on 2020-12-31
+Missing data for FFIC.OQ on 2016-12-31
+Missing data for FFIC.OQ on 2017-12-31
+Missing data for FFIC.OQ on 2018-12-31
+Missing data for FFIC.OQ on 2019-12-31
+Missing data for FFIC.OQ on 2020-12-31
+Missing data for FFIN.OQ on 2016-12-31
+Missing data for FFIN.OQ on 2017-12-31
+Missing data for FFIN.OQ on 2018-12-31
+Missing data for FFIN.OQ on 2019-12-31
+Missing data for FFIN.OQ on 2020-12-31
+Missing data for FGBI.OQ on 2016-12-31
+Missing data for FGBI.OQ on 2017-12-31
+Missing data for FGBI.OQ on 2018-12-31
+Error fetching FGBI.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FGBI.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FGBI.OQ on 2020-12-31
+Missing data for FHN.N on 2016-12-31
+Missing data for FHN.N on 2017-12-31
+Missing data for FHN.N on 2018-12-31
+Missing data for FHN.N on 2019-12-31
+Missing data for FHN.N on 2020-12-31
+Error fetching FISI.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FISI.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FISI.OQ on 2017-12-31
+Error fetching FISI.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FISI.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FISI.OQ on 2019-12-31
+Missing data for FISI.OQ on 2020-12-31
+Missing data for FITB.OQ on 2016-12-31
+Missing data for FITB.OQ on 2017-12-31
+Missing data for FITB.OQ on 2018-12-31
+Missing data for FITB.OQ on 2019-12-31
+Missing data for FITB.OQ on 2020-12-31
+Missing data for FLG.N on 2016-12-31
+Missing data for FLG.N on 2017-12-31
+Missing data for FLG.N on 2018-12-31
+Missing data for FLG.N on 2019-12-31
+Missing data for FLG.N on 2020-12-31
+Missing data for FLIC.OQ on 2016-12-31
+Missing data for FLIC.OQ on 2017-12-31
+Error fetching FLIC.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FLIC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FLIC.OQ on 2019-12-31
+Missing data for FLIC.OQ on 2020-12-31
+Missing data for FMBH.OQ on 2016-12-31
+Missing data for FMBH.OQ on 2017-12-31
+Missing data for FMBH.OQ on 2018-12-31
+Missing data for FMBH.OQ on 2019-12-31
+Missing data for FMBH.OQ on 2020-12-31
+Missing data for FMNB.OQ on 2016-12-31
+Error fetching FMNB.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FMNB.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching FMNB.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FMNB.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FMNB.OQ on 2019-12-31
+Error fetching FMNB.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FMNB.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FNB.N on 2016-12-31
+Missing data for FNB.N on 2017-12-31
+Missing data for FNB.N on 2018-12-31
+Missing data for FNB.N on 2019-12-31
+Missing data for FNB.N on 2020-12-31
+Error fetching FNLC.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FNLC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FNLC.OQ on 2017-12-31
+Missing data for FNLC.OQ on 2018-12-31
+Error fetching FNLC.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FNLC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching FNLC.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FNLC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FNWB.OQ on 2016-12-31
+Missing data for FNWB.OQ on 2017-12-31
+Missing data for FNWB.OQ on 2018-12-31
+Missing data for FNWB.OQ on 2019-12-31
+Missing data for FNWB.OQ on 2020-12-31
+Missing data for FRBA.OQ on 2016-12-31
+Error fetching FRBA.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FRBA.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FRBA.OQ on 2018-12-31
+Missing data for FRBA.OQ on 2019-12-31
+Missing data for FRBA.OQ on 2020-12-31
+Missing data for FRBKQ.PK on 2016-12-31
+Missing data for FRBKQ.PK on 2017-12-31
+Missing data for FRBKQ.PK on 2018-12-31
+Missing data for FRBKQ.PK on 2019-12-31
+Missing data for FRBKQ.PK on 2020-12-31
+Missing data for FRCB.PK on 2016-12-31
+Missing data for FRCB.PK on 2017-12-31
+Missing data for FRCB.PK on 2018-12-31
+Missing data for FRCB.PK on 2019-12-31
+Missing data for FRCB.PK on 2020-12-31
+Missing data for FRME.OQ on 2016-12-31
+Missing data for FRME.OQ on 2017-12-31
+Missing data for FRME.OQ on 2018-12-31
+Missing data for FRME.OQ on 2019-12-31
+Missing data for FRME.OQ on 2020-12-31
+Missing data for FRST.OQ on 2016-12-31
+Missing data for FRST.OQ on 2017-12-31
+Missing data for FRST.OQ on 2018-12-31
+Missing data for FRST.OQ on 2019-12-31
+Missing data for FRST.OQ on 2020-12-31
+Missing data for FSBW.OQ on 2016-12-31
+Missing data for FSBW.OQ on 2017-12-31
+Missing data for FSBW.OQ on 2018-12-31
+Missing data for FSBW.OQ on 2019-12-31
+Missing data for FSBW.OQ on 2020-12-31
+Error fetching FULT.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FULT.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for FULT.OQ on 2017-12-31
+Missing data for FULT.OQ on 2018-12-31
+Missing data for FULT.OQ on 2019-12-31
+Missing data for FULT.OQ on 2020-12-31
+Missing data for FUNC.OQ on 2016-12-31
+Missing data for FUNC.OQ on 2017-12-31
+Missing data for FUNC.OQ on 2018-12-31
+Missing data for FUNC.OQ on 2019-12-31
+Error fetching FUNC.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['FUNC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for GABC.OQ on 2016-12-31
+Missing data for GABC.OQ on 2017-12-31
+Missing data for GABC.OQ on 2018-12-31
+Missing data for GABC.OQ on 2019-12-31
+Missing data for GABC.OQ on 2020-12-31
+Missing data for GBCI.N on 2016-12-31
+Missing data for GBCI.N on 2017-12-31
+Missing data for GBCI.N on 2018-12-31
+Missing data for GBCI.N on 2019-12-31
+Missing data for GBCI.N on 2020-12-31
+Missing data for GSBC.OQ on 2016-12-31
+Missing data for GSBC.OQ on 2017-12-31
+Error fetching GSBC.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['GSBC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for GSBC.OQ on 2019-12-31
+Missing data for GSBC.OQ on 2020-12-31
+Missing data for HAFC.OQ on 2016-12-31
+Missing data for HAFC.OQ on 2017-12-31
+Missing data for HAFC.OQ on 2018-12-31
+Missing data for HAFC.OQ on 2019-12-31
+Missing data for HAFC.OQ on 2020-12-31
+Missing data for HBAN.OQ on 2016-12-31
+Missing data for HBAN.OQ on 2017-12-31
+Missing data for HBAN.OQ on 2018-12-31
+Missing data for HBAN.OQ on 2019-12-31
+Missing data for HBAN.OQ on 2020-12-31
+Missing data for HBCP.OQ on 2016-12-31
+Missing data for HBCP.OQ on 2017-12-31
+Missing data for HBCP.OQ on 2018-12-31
+Missing data for HBCP.OQ on 2019-12-31
+Missing data for HBCP.OQ on 2020-12-31
+Missing data for HBNC.OQ on 2016-12-31
+Missing data for HBNC.OQ on 2017-12-31
+Error fetching HBNC.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['HBNC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for HBNC.OQ on 2019-12-31
+Missing data for HBNC.OQ on 2020-12-31
+Missing data for HFWA.OQ on 2016-12-31
+Missing data for HFWA.OQ on 2017-12-31
+Missing data for HFWA.OQ on 2018-12-31
+Missing data for HFWA.OQ on 2019-12-31
+Missing data for HFWA.OQ on 2020-12-31
+Missing data for HIFS.OQ on 2016-12-31
+Missing data for HIFS.OQ on 2017-12-31
+Error fetching HIFS.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['HIFS.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching HIFS.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['HIFS.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for HIFS.OQ on 2020-12-31
+Missing data for HMST.OQ on 2016-12-31
+Missing data for HMST.OQ on 2017-12-31
+Missing data for HMST.OQ on 2018-12-31
+Missing data for HMST.OQ on 2019-12-31
+Missing data for HMST.OQ on 2020-12-31
+Missing data for HOMB.N on 2016-12-31
+Missing data for HOMB.N on 2017-12-31
+Missing data for HOMB.N on 2018-12-31
+Missing data for HOMB.N on 2019-12-31
+Missing data for HOMB.N on 2020-12-31
+Missing data for HOPE.OQ on 2016-12-31
+Missing data for HOPE.OQ on 2017-12-31
+Missing data for HOPE.OQ on 2018-12-31
+Missing data for HOPE.OQ on 2019-12-31
+Missing data for HOPE.OQ on 2020-12-31
+Missing data for HTBK.OQ on 2016-12-31
+Error fetching HTBK.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['HTBK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching HTBK.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['HTBK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for HTBK.OQ on 2019-12-31
+Missing data for HTBK.OQ on 2020-12-31
+Missing data for HTH.N on 2016-12-31
+Missing data for HTH.N on 2017-12-31
+Missing data for HTH.N on 2018-12-31
+Missing data for HTH.N on 2019-12-31
+Missing data for HTH.N on 2020-12-31
+Missing data for HWBK.OQ on 2016-12-31
+Missing data for HWBK.OQ on 2017-12-31
+Missing data for HWBK.OQ on 2018-12-31
+Missing data for HWBK.OQ on 2019-12-31
+Error fetching HWBK.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['HWBK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for HWC.OQ on 2016-12-31
+Missing data for HWC.OQ on 2017-12-31
+Missing data for HWC.OQ on 2018-12-31
+Missing data for HWC.OQ on 2019-12-31
+Missing data for HWC.OQ on 2020-12-31
+Missing data for IBCP.OQ on 2016-12-31
+Missing data for IBCP.OQ on 2017-12-31
+Missing data for IBCP.OQ on 2018-12-31
+Error fetching IBCP.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['IBCP.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for IBCP.OQ on 2020-12-31
+Missing data for IBOC.OQ on 2016-12-31
+Missing data for IBOC.OQ on 2017-12-31
+Missing data for IBOC.OQ on 2018-12-31
+Missing data for IBOC.OQ on 2019-12-31
+Missing data for IBOC.OQ on 2020-12-31
+Missing data for INBK.OQ on 2016-12-31
+Missing data for INBK.OQ on 2017-12-31
+Missing data for INBK.OQ on 2018-12-31
+Missing data for INBK.OQ on 2019-12-31
+Missing data for INBK.OQ on 2020-12-31
+Missing data for INDB.OQ on 2016-12-31
+Missing data for INDB.OQ on 2017-12-31
+Missing data for INDB.OQ on 2018-12-31
+Missing data for INDB.OQ on 2019-12-31
+Missing data for INDB.OQ on 2020-12-31
+Missing data for ISTR.OQ on 2016-12-31
+Missing data for ISTR.OQ on 2017-12-31
+Missing data for ISTR.OQ on 2018-12-31
+Missing data for ISTR.OQ on 2019-12-31
+Missing data for ISTR.OQ on 2020-12-31
+Missing data for JPM.N on 2016-12-31
+Missing data for JPM.N on 2017-12-31
+Missing data for JPM.N on 2018-12-31
+Missing data for JPM.N on 2019-12-31
+Missing data for JPM.N on 2020-12-31
+Missing data for KEY.N on 2016-12-31
+Missing data for KEY.N on 2017-12-31
+Missing data for KEY.N on 2018-12-31
+Missing data for KEY.N on 2019-12-31
+Missing data for KEY.N on 2020-12-31
+Missing data for LARK.OQ on 2016-12-31
+Missing data for LARK.OQ on 2017-12-31
+Missing data for LARK.OQ on 2018-12-31
+Missing data for LARK.OQ on 2019-12-31
+Missing data for LARK.OQ on 2020-12-31
+Missing data for LCNB.OQ on 2016-12-31
+Missing data for LCNB.OQ on 2017-12-31
+Missing data for LCNB.OQ on 2018-12-31
+Missing data for LCNB.OQ on 2019-12-31
+Missing data for LCNB.OQ on 2020-12-31
+Missing data for LKFN.OQ on 2016-12-31
+Missing data for LKFN.OQ on 2017-12-31
+Missing data for LKFN.OQ on 2018-12-31
+Missing data for LKFN.OQ on 2019-12-31
+Missing data for LKFN.OQ on 2020-12-31
+Missing data for MBWM.OQ on 2016-12-31
+Missing data for MBWM.OQ on 2017-12-31
+Missing data for MBWM.OQ on 2018-12-31
+Missing data for MBWM.OQ on 2019-12-31
+Missing data for MBWM.OQ on 2020-12-31
+Error fetching MFIN.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['MFIN.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for MFIN.OQ on 2017-12-31
+Missing data for MFIN.OQ on 2018-12-31
+Missing data for MFIN.OQ on 2019-12-31
+Missing data for MFIN.OQ on 2020-12-31
+Missing data for MOFG.OQ on 2016-12-31
+Error fetching MOFG.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['MOFG.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching MOFG.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['MOFG.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching MOFG.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['MOFG.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching MOFG.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['MOFG.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for MPB.OQ on 2016-12-31
+Error fetching MPB.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['MPB.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for MPB.OQ on 2018-12-31
+Missing data for MPB.OQ on 2019-12-31
+Error fetching MPB.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['MPB.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for MTB.N on 2016-12-31
+Missing data for MTB.N on 2017-12-31
+Missing data for MTB.N on 2018-12-31
+Missing data for MTB.N on 2019-12-31
+Missing data for MTB.N on 2020-12-31
+Missing data for NBHC.N on 2016-12-31
+Missing data for NBHC.N on 2017-12-31
+Missing data for NBHC.N on 2018-12-31
+Missing data for NBHC.N on 2019-12-31
+Missing data for NBHC.N on 2020-12-31
+Missing data for NBTB.OQ on 2016-12-31
+Missing data for NBTB.OQ on 2017-12-31
+Missing data for NBTB.OQ on 2018-12-31
+Missing data for NBTB.OQ on 2019-12-31
+Missing data for NBTB.OQ on 2020-12-31
+Missing data for NFBK.OQ on 2016-12-31
+Error fetching NFBK.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['NFBK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for NFBK.OQ on 2018-12-31
+Missing data for NFBK.OQ on 2019-12-31
+Error fetching NFBK.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['NFBK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for NKSH.OQ on 2016-12-31
+Error fetching NKSH.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['NKSH.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching NKSH.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['NKSH.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for NKSH.OQ on 2019-12-31
+Missing data for NKSH.OQ on 2020-12-31
+Missing data for NRIM.OQ on 2016-12-31
+Missing data for NRIM.OQ on 2017-12-31
+Missing data for NRIM.OQ on 2018-12-31
+Missing data for NRIM.OQ on 2019-12-31
+Missing data for NRIM.OQ on 2020-12-31
+Missing data for NWBI.OQ on 2016-12-31
+Missing data for NWBI.OQ on 2017-12-31
+Missing data for NWBI.OQ on 2018-12-31
+Missing data for NWBI.OQ on 2019-12-31
+Missing data for NWBI.OQ on 2020-12-31
+Missing data for NWFL.OQ on 2016-12-31
+Missing data for NWFL.OQ on 2017-12-31
+Missing data for NWFL.OQ on 2018-12-31
+Missing data for NWFL.OQ on 2019-12-31
+Missing data for NWFL.OQ on 2020-12-31
+Missing data for OCFC.OQ on 2016-12-31
+Missing data for OCFC.OQ on 2017-12-31
+Missing data for OCFC.OQ on 2018-12-31
+Missing data for OCFC.OQ on 2019-12-31
+Missing data for OCFC.OQ on 2020-12-31
+Missing data for ONB.OQ on 2016-12-31
+Missing data for ONB.OQ on 2017-12-31
+Missing data for ONB.OQ on 2018-12-31
+Error fetching ONB.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['ONB.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for ONB.OQ on 2020-12-31
+Missing data for OPOF.OQ on 2016-12-31
+Missing data for OPOF.OQ on 2017-12-31
+Missing data for OPOF.OQ on 2018-12-31
+Missing data for OPOF.OQ on 2019-12-31
+Missing data for OPOF.OQ on 2020-12-31
+Error fetching ORRF.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['ORRF.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching ORRF.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['ORRF.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for ORRF.OQ on 2018-12-31
+Error fetching ORRF.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['ORRF.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for ORRF.OQ on 2020-12-31
+Missing data for OSBC.OQ on 2016-12-31
+Missing data for OSBC.OQ on 2017-12-31
+Missing data for OSBC.OQ on 2018-12-31
+Missing data for OSBC.OQ on 2019-12-31
+Missing data for OSBC.OQ on 2020-12-31
+Missing data for OVBC.OQ on 2016-12-31
+Missing data for OVBC.OQ on 2017-12-31
+Error fetching OVBC.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['OVBC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for OVBC.OQ on 2019-12-31
+Error fetching OVBC.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['OVBC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching OVLY.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['OVLY.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for OVLY.OQ on 2017-12-31
+Missing data for OVLY.OQ on 2018-12-31
+Missing data for OVLY.OQ on 2019-12-31
+Missing data for OVLY.OQ on 2020-12-31
+Missing data for OZK.OQ on 2016-12-31
+Error fetching OZK.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['OZK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for OZK.OQ on 2018-12-31
+Missing data for OZK.OQ on 2019-12-31
+Error fetching OZK.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['OZK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PB.N on 2016-12-31
+Missing data for PB.N on 2017-12-31
+Missing data for PB.N on 2018-12-31
+Missing data for PB.N on 2019-12-31
+Missing data for PB.N on 2020-12-31
+Missing data for PEBK.OQ on 2016-12-31
+Missing data for PEBK.OQ on 2017-12-31
+Missing data for PEBK.OQ on 2018-12-31
+Missing data for PEBK.OQ on 2019-12-31
+Missing data for PEBK.OQ on 2020-12-31
+Missing data for PEBO.OQ on 2016-12-31
+Missing data for PEBO.OQ on 2017-12-31
+Error fetching PEBO.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PEBO.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching PEBO.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PEBO.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PEBO.OQ on 2020-12-31
+Missing data for PFBC.OQ on 2016-12-31
+Missing data for PFBC.OQ on 2017-12-31
+Missing data for PFBC.OQ on 2018-12-31
+Missing data for PFBC.OQ on 2019-12-31
+Missing data for PFBC.OQ on 2020-12-31
+Error fetching PFIS.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PFIS.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PFIS.OQ on 2017-12-31
+Error fetching PFIS.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PFIS.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PFIS.OQ on 2019-12-31
+Error fetching PFIS.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PFIS.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching PFS.N 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PFS.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PFS.N on 2017-12-31
+Error fetching PFS.N 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PFS.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PFS.N on 2019-12-31
+Error fetching PFS.N 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PFS.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PGC.OQ on 2016-12-31
+Missing data for PGC.OQ on 2017-12-31
+Missing data for PGC.OQ on 2018-12-31
+Missing data for PGC.OQ on 2019-12-31
+Missing data for PGC.OQ on 2020-12-31
+Error fetching PKBK.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PKBK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching PKBK.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PKBK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PKBK.OQ on 2018-12-31
+Missing data for PKBK.OQ on 2019-12-31
+Error fetching PKBK.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PKBK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PLBC.OQ on 2016-12-31
+Missing data for PLBC.OQ on 2017-12-31
+Missing data for PLBC.OQ on 2018-12-31
+Error fetching PLBC.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PLBC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching PLBC.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PLBC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PNC.N on 2016-12-31
+Missing data for PNC.N on 2017-12-31
+Missing data for PNC.N on 2018-12-31
+Missing data for PNC.N on 2019-12-31
+Missing data for PNC.N on 2020-12-31
+Missing data for PNFP.OQ on 2016-12-31
+Missing data for PNFP.OQ on 2017-12-31
+Error fetching PNFP.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PNFP.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PNFP.OQ on 2019-12-31
+Error fetching PNFP.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PNFP.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PPBI.OQ on 2016-12-31
+Missing data for PPBI.OQ on 2017-12-31
+Missing data for PPBI.OQ on 2018-12-31
+Missing data for PPBI.OQ on 2019-12-31
+Missing data for PPBI.OQ on 2020-12-31
+Error fetching PRK.A 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PRK.A']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching PRK.A 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PRK.A']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching PRK.A 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['PRK.A']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for PRK.A on 2019-12-31
+Missing data for PRK.A on 2020-12-31
+Missing data for PVBC.OQ on 2016-12-31
+Missing data for PVBC.OQ on 2017-12-31
+Missing data for PVBC.OQ on 2018-12-31
+Missing data for PVBC.OQ on 2019-12-31
+Missing data for PVBC.OQ on 2020-12-31
+Missing data for PWOD.OQ on 2016-12-31
+Missing data for PWOD.OQ on 2017-12-31
+Missing data for PWOD.OQ on 2018-12-31
+Missing data for PWOD.OQ on 2019-12-31
+Missing data for PWOD.OQ on 2020-12-31
+Missing data for QCRH.OQ on 2016-12-31
+Error fetching QCRH.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['QCRH.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for QCRH.OQ on 2018-12-31
+Missing data for QCRH.OQ on 2019-12-31
+Missing data for QCRH.OQ on 2020-12-31
+Missing data for RBCAA.OQ on 2016-12-31
+Missing data for RBCAA.OQ on 2017-12-31
+Missing data for RBCAA.OQ on 2018-12-31
+Missing data for RBCAA.OQ on 2019-12-31
+Missing data for RBCAA.OQ on 2020-12-31
+Missing data for RF.N on 2016-12-31
+Missing data for RF.N on 2017-12-31
+Missing data for RF.N on 2018-12-31
+Missing data for RF.N on 2019-12-31
+Missing data for RF.N on 2020-12-31
+Missing data for SBCF.OQ on 2016-12-31
+Missing data for SBCF.OQ on 2017-12-31
+Missing data for SBCF.OQ on 2018-12-31
+Missing data for SBCF.OQ on 2019-12-31
+Missing data for SBCF.OQ on 2020-12-31
+Missing data for SBFG.OQ on 2016-12-31
+Error fetching SBFG.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['SBFG.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching SBFG.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['SBFG.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for SBFG.OQ on 2019-12-31
+Error fetching SBFG.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['SBFG.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for SBNY.PK on 2016-12-31
+Missing data for SBNY.PK on 2017-12-31
+Missing data for SBNY.PK on 2018-12-31
+Missing data for SBNY.PK on 2019-12-31
+Missing data for SBNY.PK on 2020-12-31
+Error fetching SBSI.N 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['SBSI.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for SBSI.N on 2017-12-31
+Error fetching SBSI.N 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['SBSI.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for SBSI.N on 2019-12-31
+Missing data for SBSI.N on 2020-12-31
+Missing data for SFNC.OQ on 2016-12-31
+Missing data for SFNC.OQ on 2017-12-31
+Missing data for SFNC.OQ on 2018-12-31
+Missing data for SFNC.OQ on 2019-12-31
+Missing data for SFNC.OQ on 2020-12-31
+Missing data for SFST.OQ on 2016-12-31
+Missing data for SFST.OQ on 2017-12-31
+Missing data for SFST.OQ on 2018-12-31
+Missing data for SFST.OQ on 2019-12-31
+Missing data for SFST.OQ on 2020-12-31
+Error fetching SHBI.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['SHBI.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for SHBI.OQ on 2017-12-31
+Missing data for SHBI.OQ on 2018-12-31
+Error fetching SHBI.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['SHBI.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for SHBI.OQ on 2020-12-31
+Missing data for SNV.N on 2016-12-31
+Missing data for SNV.N on 2017-12-31
+Missing data for SNV.N on 2018-12-31
+Error fetching SNV.N 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['SNV.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for SNV.N on 2020-12-31
+Missing data for SRCE.OQ on 2016-12-31
+Missing data for SRCE.OQ on 2017-12-31
+Missing data for SRCE.OQ on 2018-12-31
+Missing data for SRCE.OQ on 2019-12-31
+Missing data for SRCE.OQ on 2020-12-31
+Missing data for STBA.OQ on 2016-12-31
+Missing data for STBA.OQ on 2017-12-31
+Missing data for STBA.OQ on 2018-12-31
+Missing data for STBA.OQ on 2019-12-31
+Missing data for STBA.OQ on 2020-12-31
+Missing data for SYBT.OQ on 2016-12-31
+Missing data for SYBT.OQ on 2017-12-31
+Missing data for SYBT.OQ on 2018-12-31
+Missing data for SYBT.OQ on 2019-12-31
+Missing data for SYBT.OQ on 2020-12-31
+Missing data for TBBK.OQ on 2016-12-31
+Missing data for TBBK.OQ on 2017-12-31
+Missing data for TBBK.OQ on 2018-12-31
+Missing data for TBBK.OQ on 2019-12-31
+Missing data for TBBK.OQ on 2020-12-31
+Missing data for TCBI.OQ on 2016-12-31
+Missing data for TCBI.OQ on 2017-12-31
+Missing data for TCBI.OQ on 2018-12-31
+Missing data for TCBI.OQ on 2019-12-31
+Missing data for TCBI.OQ on 2020-12-31
+Missing data for TCBK.OQ on 2016-12-31
+Missing data for TCBK.OQ on 2017-12-31
+Missing data for TCBK.OQ on 2018-12-31
+Missing data for TCBK.OQ on 2019-12-31
+Missing data for TCBK.OQ on 2020-12-31
+Missing data for TFC.N on 2016-12-31
+Missing data for TFC.N on 2017-12-31
+Missing data for TFC.N on 2018-12-31
+Missing data for TFC.N on 2019-12-31
+Missing data for TFC.N on 2020-12-31
+Missing data for TFIN.OQ on 2016-12-31
+Missing data for TFIN.OQ on 2017-12-31
+Missing data for TFIN.OQ on 2018-12-31
+Missing data for TFIN.OQ on 2019-12-31
+Missing data for TFIN.OQ on 2020-12-31
+Error fetching THFF.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['THFF.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching THFF.OQ 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['THFF.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for THFF.OQ on 2018-12-31
+Error fetching THFF.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['THFF.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for THFF.OQ on 2020-12-31
+Missing data for TMP.A on 2016-12-31
+Error fetching TMP.A 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['TMP.A']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for TMP.A on 2018-12-31
+Error fetching TMP.A 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['TMP.A']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for TMP.A on 2020-12-31
+Missing data for TOWN.OQ on 2016-12-31
+Missing data for TOWN.OQ on 2017-12-31
+Missing data for TOWN.OQ on 2018-12-31
+Missing data for TOWN.OQ on 2019-12-31
+Missing data for TOWN.OQ on 2020-12-31
+Missing data for TRMK.OQ on 2016-12-31
+Missing data for TRMK.OQ on 2017-12-31
+Missing data for TRMK.OQ on 2018-12-31
+Error fetching TRMK.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['TRMK.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for TRMK.OQ on 2020-12-31
+Missing data for TRST.OQ on 2016-12-31
+Missing data for TRST.OQ on 2017-12-31
+Missing data for TRST.OQ on 2018-12-31
+Error fetching TRST.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['TRST.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for TRST.OQ on 2020-12-31
+Missing data for UBFO.OQ on 2016-12-31
+Missing data for UBFO.OQ on 2017-12-31
+Missing data for UBFO.OQ on 2018-12-31
+Missing data for UBFO.OQ on 2019-12-31
+Missing data for UBFO.OQ on 2020-12-31
+Missing data for UBSI.OQ on 2016-12-31
+Missing data for UBSI.OQ on 2017-12-31
+Missing data for UBSI.OQ on 2018-12-31
+Missing data for UBSI.OQ on 2019-12-31
+Missing data for UBSI.OQ on 2020-12-31
+Missing data for UCB.N on 2016-12-31
+Missing data for UCB.N on 2017-12-31
+Missing data for UCB.N on 2018-12-31
+Missing data for UCB.N on 2019-12-31
+Missing data for UCB.N on 2020-12-31
+Missing data for UMBF.OQ on 2016-12-31
+Missing data for UMBF.OQ on 2017-12-31
+Missing data for UMBF.OQ on 2018-12-31
+Missing data for UMBF.OQ on 2019-12-31
+Missing data for UMBF.OQ on 2020-12-31
+Missing data for UNB.OQ on 2016-12-31
+Missing data for UNB.OQ on 2017-12-31
+Missing data for UNB.OQ on 2018-12-31
+Missing data for UNB.OQ on 2019-12-31
+Error fetching UNB.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['UNB.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for UNTY.OQ on 2016-12-31
+Missing data for UNTY.OQ on 2017-12-31
+Missing data for UNTY.OQ on 2018-12-31
+Error fetching UNTY.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['UNTY.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for UNTY.OQ on 2020-12-31
+Missing data for USB.N on 2016-12-31
+Missing data for USB.N on 2017-12-31
+Missing data for USB.N on 2018-12-31
+Missing data for USB.N on 2019-12-31
+Missing data for USB.N on 2020-12-31
+Missing data for UVSP.OQ on 2016-12-31
+Missing data for UVSP.OQ on 2017-12-31
+Missing data for UVSP.OQ on 2018-12-31
+Missing data for UVSP.OQ on 2019-12-31
+Missing data for UVSP.OQ on 2020-12-31
+Missing data for VBTX.OQ on 2016-12-31
+Missing data for VBTX.OQ on 2017-12-31
+Missing data for VBTX.OQ on 2018-12-31
+Missing data for VBTX.OQ on 2019-12-31
+Error fetching VBTX.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['VBTX.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching VLY.OQ 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['VLY.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for VLY.OQ on 2017-12-31
+Missing data for VLY.OQ on 2018-12-31
+Missing data for VLY.OQ on 2019-12-31
+Missing data for VLY.OQ on 2020-12-31
+Missing data for WABC.OQ on 2016-12-31
+Missing data for WABC.OQ on 2017-12-31
+Missing data for WABC.OQ on 2018-12-31
+Missing data for WABC.OQ on 2019-12-31
+Missing data for WABC.OQ on 2020-12-31
+Missing data for WAL.N on 2016-12-31
+Missing data for WAL.N on 2017-12-31
+Missing data for WAL.N on 2018-12-31
+Missing data for WAL.N on 2019-12-31
+Missing data for WAL.N on 2020-12-31
+Missing data for WASH.OQ on 2016-12-31
+Missing data for WASH.OQ on 2017-12-31
+Missing data for WASH.OQ on 2018-12-31
+Missing data for WASH.OQ on 2019-12-31
+Missing data for WASH.OQ on 2020-12-31
+Error fetching WBS.N 2016-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['WBS.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching WBS.N 2017-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['WBS.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for WBS.N on 2018-12-31
+Error fetching WBS.N 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['WBS.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching WBS.N 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['WBS.N']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for WFC.N on 2016-12-31
+Missing data for WFC.N on 2017-12-31
+Missing data for WFC.N on 2018-12-31
+Missing data for WFC.N on 2019-12-31
+Missing data for WFC.N on 2020-12-31
+Missing data for WNEB.OQ on 2016-12-31
+Missing data for WNEB.OQ on 2017-12-31
+Missing data for WNEB.OQ on 2018-12-31
+Missing data for WNEB.OQ on 2019-12-31
+Missing data for WNEB.OQ on 2020-12-31
+Missing data for WSBC.OQ on 2016-12-31
+Missing data for WSBC.OQ on 2017-12-31
+Error fetching WSBC.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['WSBC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Error fetching WSBC.OQ 2019-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['WSBC.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for WSBC.OQ on 2020-12-31
+Missing data for WSBF.OQ on 2016-12-31
+Missing data for WSBF.OQ on 2017-12-31
+Error fetching WSBF.OQ 2018-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['WSBF.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for WSBF.OQ on 2019-12-31
+Missing data for WSBF.OQ on 2020-12-31
+Missing data for WSFS.OQ on 2016-12-31
+Missing data for WSFS.OQ on 2017-12-31
+Missing data for WSFS.OQ on 2018-12-31
+Missing data for WSFS.OQ on 2019-12-31
+Error fetching WSFS.OQ 2020-12-31: Error code -1 | Unable to collect data for the field 'TR.CLOSEPRICE' and some specific identifier(s). Requested universes: ['WSFS.OQ']. Requested fields: ['TR.CLOSEPRICE', 'TR.SHARESOUT']
+Missing data for WTBA.OQ on 2016-12-31
+Missing data for WTBA.OQ on 2017-12-31
+Missing data for WTBA.OQ on 2018-12-31
+Missing data for WTBA.OQ on 2019-12-31
+Missing data for WTBA.OQ on 2020-12-31
+Missing data for WTFC.OQ on 2016-12-31
+Missing data for WTFC.OQ on 2017-12-31
+Missing data for WTFC.OQ on 2018-12-31
+Missing data for WTFC.OQ on 2019-12-31
+Missing data for WTFC.OQ on 2020-12-31
+Missing data for ZION.OQ on 2016-12-31
+Missing data for ZION.OQ on 2017-12-31
+Missing data for ZION.OQ on 2018-12-31
+Missing data for ZION.OQ on 2019-12-31
+Missing data for ZION.OQ on 2020-12-31
+Saved → esg-default-risk-phase1/data/clean/all_banks_marketcap_2016_2020_refinitiv.csv

@@ -1,0 +1,4 @@
+Rows in output: 0
+Symbols: 0
+Years: nan to nan
+Columns: ['symbol', 'year', 'fiscal_date', 'shares_outstanding', 'price_to_book_value_per_share', 'market_cap']

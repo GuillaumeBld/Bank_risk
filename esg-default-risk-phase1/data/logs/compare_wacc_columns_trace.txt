@@ -1,0 +1,30 @@
+WACC_CAPM matches new_wacc in all rows: False
+Mismatches: 1188
+
+Sample rows:
+instrument       date  new_wacc  weighted_average_cost_of_capital_  WACC_CAPM
+     JPM.N 2016-12-31  0.085799                           4.864093   0.052033
+     JPM.N 2017-12-31  0.098152                           4.749802   0.053311
+     JPM.N 2018-12-31 -0.075207                           5.749097   0.056065
+     JPM.N 2019-12-31  0.077110                           4.696227   0.051970
+     JPM.N 2020-12-31 -0.034961                           3.732273   0.044912
+     JPM.N 2021-12-31  0.144609                           1.548871   0.052509
+     JPM.N 2022-12-31  0.022398                           6.028441   0.059323
+     JPM.N 2023-12-31  0.085679                           5.730925   0.062727
+     BAC.N 2016-12-31  0.088169                           4.762381   0.048089
+     BAC.N 2017-12-31  0.114573                           4.784765   0.053189
+WACC_CAPM == weighted_average_cost_of_capital_ / 100 in all rows: False
+Mismatches: 1188
+
+Sample mismatches:
+instrument       date  WACC_CAPM  weighted_average_cost_of_capital_
+     JPM.N 2016-12-31   0.052033                           4.864093
+     JPM.N 2017-12-31   0.053311                           4.749802
+     JPM.N 2018-12-31   0.056065                           5.749097
+     JPM.N 2019-12-31   0.051970                           4.696227
+     JPM.N 2020-12-31   0.044912                           3.732273
+     JPM.N 2021-12-31   0.052509                           1.548871
+     JPM.N 2022-12-31   0.059323                           6.028441
+     JPM.N 2023-12-31   0.062727                           5.730925
+     BAC.N 2016-12-31   0.048089                           4.762381
+     BAC.N 2017-12-31   0.053189                           4.784765

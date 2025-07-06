@@ -1,0 +1,10 @@
+Distance to Default calculated for 1188 rows
+count    1188.000000
+mean             inf
+std              NaN
+min         3.771774
+25%         9.079013
+50%        10.903265
+75%        13.358924
+max              inf
+Name: distance_to_default, dtype: float64

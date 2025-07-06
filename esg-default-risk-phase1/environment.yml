@@ -1,0 +1,13 @@
+name: esg-default-risk
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - pyyaml
+  - jupyter
+  - pip 

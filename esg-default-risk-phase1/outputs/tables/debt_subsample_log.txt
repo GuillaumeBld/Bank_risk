@@ -1,0 +1,3 @@
+Full sample: 1188 rows
+Debt>0 sample: 1179 rows
+See summary_stats_debt_subsamples.csv and regression_comparison_debt_subsamples.csv for details.

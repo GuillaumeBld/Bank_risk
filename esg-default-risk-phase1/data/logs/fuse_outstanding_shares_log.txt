@@ -1,0 +1,6 @@
+Fused file created: /Users/guillaumebld/Documents/Graduate_Research/codebase/esg-default-risk-phase1/scripts/1_data_prep/../../data/clean/outstanding_shares.csv
+Deleted files:
+  /Users/guillaumebld/Documents/Graduate_Research/codebase/esg-default-risk-phase1/scripts/1_data_prep/../../data/clean/merged_outstanding_shares_2016_2020.csv
+  /Users/guillaumebld/Documents/Graduate_Research/codebase/esg-default-risk-phase1/scripts/1_data_prep/../../data/clean/corrected_bank_outstanding_shares_2016_2020.csv
+  /Users/guillaumebld/Documents/Graduate_Research/codebase/esg-default-risk-phase1/scripts/1_data_prep/../../data/clean/bank_outstanding_shares_2016_2023.csv
+  /Users/guillaumebld/Documents/Graduate_Research/codebase/esg-default-risk-phase1/scripts/1_data_prep/../../data/clean/outstanding_shares.csv

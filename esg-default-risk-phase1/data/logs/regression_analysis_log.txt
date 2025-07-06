@@ -1,0 +1,40 @@
+Regression analysis completed.
+Model formula: WACC_CAPM ~ esg_score + lnta + td_ta + price_to_book_value_per_share + capital_adequacy__total_ + C(Year)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              WACC_CAPM   R-squared:                       0.294
+Model:                            OLS   Adj. R-squared:                  0.153
+Method:                 Least Squares   F-statistic:                     3.128
+Date:                Sat, 05 Jul 2025   Prob (F-statistic):            0.00169
+Time:                        08:27:08   Log-Likelihood:                 194.24
+No. Observations:                  73   AIC:                            -362.5
+Df Residuals:                      60   BIC:                            -332.7
+Df Model:                          12                                         
+Covariance Type:                  HC1                                         
+=================================================================================================
+                                    coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------
+Intercept                         0.0982      0.044      2.223      0.026       0.012       0.185
+C(Year)[T.2017]                  -0.0003      0.009     -0.038      0.969      -0.018       0.017
+C(Year)[T.2018]                   0.0057      0.011      0.541      0.589      -0.015       0.027
+C(Year)[T.2019]                  -0.0006      0.011     -0.054      0.957      -0.021       0.020
+C(Year)[T.2020]                   0.0111      0.015      0.756      0.449      -0.018       0.040
+C(Year)[T.2021]                   0.0098      0.012      0.802      0.423      -0.014       0.034
+C(Year)[T.2022]                   0.0062      0.010      0.610      0.542      -0.014       0.026
+C(Year)[T.2023]                   0.0111      0.012      0.966      0.334      -0.011       0.034
+esg_score                      5.473e-05      0.000      0.295      0.768      -0.000       0.000
+lnta                              0.0032      0.002      1.317      0.188      -0.002       0.008
+td_ta                            -0.0475      0.051     -0.928      0.354      -0.148       0.053
+price_to_book_value_per_share     0.0188      0.008      2.496      0.013       0.004       0.034
+capital_adequacy__total_         -0.0052      0.002     -2.910      0.004      -0.009      -0.002
+==============================================================================
+Omnibus:                        0.013   Durbin-Watson:                   0.692
+Prob(Omnibus):                  0.994   Jarque-Bera (JB):                0.154
+Skew:                           0.002   Prob(JB):                        0.926
+Kurtosis:                       2.775   Cond. No.                     1.09e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+[2] The condition number is large, 1.09e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

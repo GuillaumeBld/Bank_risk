@@ -1,0 +1,1 @@
+Market cap file expanded to monthly and close prices merged.

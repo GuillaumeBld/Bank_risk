@@ -1,0 +1,13 @@
+Unmatched (symbol, year) pairs in shares but not in returns: 0
+
+Unmatched (symbol, year) pairs in returns but not in shares: 0
+
+Computed market cap for 18144 bank-year pairs.
+Columns: ['symbol', 'year', 'fiscal_date_x', 'shares_outstanding', 'Bank', 'fiscal_date_y', 'dec_price', 'year2d', 'market_cap', 'fiscal_date']
+Sample:
+  symbol  year fiscal_date_x  shares_outstanding    Bank fiscal_date_y  dec_price year2d    market_cap fiscal_date
+0   ABCB  2016    2016-12-31            68910896  ABCB.N       1/31/16  -0.148867     16 -1.025858e+07  2016-12-31
+1   ABCB  2016    2016-12-31            68910896  ABCB.N       2/29/16  -0.067058     16 -4.621056e+06  2016-12-31
+2   ABCB  2016    2016-12-31            68910896  ABCB.N       3/31/16   0.095961     16  6.612791e+06  2016-12-31
+3   ABCB  2016    2016-12-31            68910896  ABCB.N       4/30/16   0.061528     16  4.239954e+06  2016-12-31
+4   ABCB  2016    2016-12-31            68910896  ABCB.N       5/31/16   0.013694     16  9.436843e+05  2016-12-31

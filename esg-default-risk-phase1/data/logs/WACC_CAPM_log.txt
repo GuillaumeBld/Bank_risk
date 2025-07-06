@@ -1,0 +1,10 @@
+WACC_CAPM column created as weighted_average_cost_of_capital_ / 100.
+Input: esg-default-risk-phase1/data/model/modeling_data_stage1.csv
+Output: esg-default-risk-phase1/data/model/modeling_data_with_wacc_capm.csv
+First 5 rows:
+instrument       date  weighted_average_cost_of_capital_  WACC_CAPM
+     JPM.N 2016-12-31                           4.864093   0.048641
+     JPM.N 2017-12-31                           4.749802   0.047498
+     JPM.N 2018-12-31                           5.749097   0.057491
+     JPM.N 2019-12-31                           4.696227   0.046962
+     JPM.N 2020-12-31                           3.732273   0.037323

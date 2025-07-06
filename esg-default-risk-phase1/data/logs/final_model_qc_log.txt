@@ -1,0 +1,14 @@
+Final model dataset exported after QC.
+Rows: 73
+Columns: ['instrument', 'date', 'ritrf', 'rit', 'new_wacc', 'environmental_pillar_score', 'social_pillar_score', 'governance_pillar_score', 'esg_score', 'environmental_pillar_score_1', 'social_pillar_score_1', 'governance_pillar_score_1', 'esg_score_1', 'esg_combined_score', 'esg_combined_score_1', 'total_assets', 'debt__total', 'price_to_book_value_per_share', 'capital_adequacy__total_', 'weighted_average_cost_of_capital_', 'beta_levered', 'wacc_tax_rate_', 'wacc_cost_of_debt_', 'wacc_debt_weight_', 'wacc_equity_weight_', 'lnta', 'td_ta', 'd_e', 'beta_unlevered', 'WACC_CAPM', 'yyyymm', 'mkt_rf', 'smb', 'hml', 'rf', 'WACC_FF', 'ticker_prefix', 'Year', 'Month', 'market_cap', 'equity_vol', 'asset_value', 'asset_vol', 'merton_status', 'distance_to_default', 'probability_of_default']
+           ritrf        rit   new_wacc  ...  asset_vol  distance_to_default  probability_of_default
+count  73.000000  73.000000  73.000000  ...  73.000000            73.000000            7.300000e+01
+mean    0.015073   0.030461   0.026969  ...   0.286161            60.794834            1.253710e-78
+std     0.185599   0.182183   0.147361  ...   0.118540            23.662025            1.071170e-77
+min    -0.368284  -0.350184  -0.321741  ...   0.100255            18.506491            0.000000e+00
+25%    -0.161252  -0.143152  -0.106177  ...   0.206715            43.439099            0.000000e+00
+50%     0.025129   0.047117   0.042375  ...   0.259147            56.844350            0.000000e+00
+75%     0.134514   0.142514   0.125819  ...   0.335828            75.641728            0.000000e+00
+max     0.425188   0.425588   0.325378  ...   0.780029           146.291840            9.152082e-77
+
+[8 rows x 42 columns]

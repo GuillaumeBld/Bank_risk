@@ -1,0 +1,40 @@
+File: data/raw/annual_returns-5-20-2025.csv
+Shape: (1191, 31)
+Columns:
+  - Count
+  - Instrument
+  - Instrument.1
+  - Date
+  - Rit-Rf
+  - Rit
+  - new wacc
+  - Environmental Pillar Score
+  - Social Pillar Score
+  - Governance Pillar Score
+  - ESG Score
+  - Environmental Pillar Score -1
+  - Social Pillar Score -1
+  - Governance Pillar Score -1
+  - ESG Score -1
+  - ESG Combined Score
+  - ESG Combined Score -1
+  - Total Assets
+  - Debt - Total
+  - Price to Book Value per Share
+  - Capital Adequacy - Total (%)
+  - Weighted Average Cost of Capital, (%)
+  - Beta_levered
+  - WACC Tax Rate, (%)
+  - WACC Cost of Debt, (%)
+  - WACC Debt Weight, (%)
+  - WACC Equity Weight, (%)
+  - lnTA
+  - TD/TA
+  - D/E
+  - Beta_unlevered
+
+First 3 rows:
+   Count Instrument Instrument.1      Date    Rit-Rf       Rit  new wacc  Environmental Pillar Score  Social Pillar Score  Governance Pillar Score  ESG Score  Environmental Pillar Score -1  Social Pillar Score -1  Governance Pillar Score -1  ESG Score -1  ESG Combined Score  ESG Combined Score -1  Total Assets  Debt - Total  Price to Book Value per Share  Capital Adequacy - Total (%)  Weighted Average Cost of Capital, (%)  Beta_levered  WACC Tax Rate, (%)  WACC Cost of Debt, (%)  WACC Debt Weight, (%)  WACC Equity Weight, (%)       lnTA     TD/TA       D/E  Beta_unlevered
+0  189.0      JPM.N        JPM.N  12/31/16  0.245917  0.247917  0.085799                   81.766775            88.334512                79.671493  81.521252                      80.257885               80.663965                   79.534507     77.841928           43.760626              39.464442     2490972.0      495354.0                       1.347065                          15.2                               4.864093      1.536081            29.05903                2.126534              66.065751                30.587868  14.728184  0.198860  2.159868        0.606612
+1    NaN      BAC.N        JPM.N  12/31/17  0.223383  0.231383  0.098152                   83.079770            90.871515                78.386775  82.353064                      81.766775               88.334512                   79.671493     81.521252           44.137058              43.760626     2533600.0      494798.0                       1.595216                          15.7                               4.749802      1.210898            28.38487                2.189746              58.567477                38.450277  14.745152  0.195294  1.523200        0.579144
+2    NaN      WFC.N        JPM.N  12/31/18 -0.227840 -0.209740 -0.075207                   79.426260            86.572183                79.615497  80.046519                      83.079770               90.871515                   78.386775     82.353064           43.394046              44.137058     2622532.0      533627.0                       1.387652                          16.0                               5.749097      1.141127            28.38487                2.730852              55.921812                41.071387  14.779651  0.203478  1.361576        0.577758

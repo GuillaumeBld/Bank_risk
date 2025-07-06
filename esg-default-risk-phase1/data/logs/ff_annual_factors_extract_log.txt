@@ -1,0 +1,4 @@
+Extracted annual Fama–French factors for years: [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
+Saved to: esg-default-risk-phase1/data/clean/fama_french_factors_annual_clean.csv
+Shape: (8, 5)
+Columns: ['year', 'mkt_rf', 'smb', 'hml', 'rf']

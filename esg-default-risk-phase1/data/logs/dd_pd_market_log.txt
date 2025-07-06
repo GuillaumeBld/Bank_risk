@@ -1,0 +1,27 @@
+DD/PD calculated for 1191 rows
+Market cap source: market_cap column present
+Rows with NaN equity_vol: 0
+Rows with failed Merton convergence: 64
+Rows with error in Merton: 0
+Rows with NaN DD: 74
+Rows with NaN PD: 74
+       distance_to_default  probability_of_default
+count          1117.000000            1.117000e+03
+mean             32.095220            2.137739e-07
+std              12.494986            7.144656e-06
+min               3.493031            0.000000e+00
+25%              22.883994            0.000000e+00
+50%              31.145061           2.958247e-213
+75%              39.305831           3.353467e-116
+max              87.733980            2.387855e-04
+Rows with missing/failed estimation: 74
+
+Sample of failed rows (first 5):
+  instrument       date     ritrf       rit  ...  asset_vol  merton_status  distance_to_default  probability_of_default
+0      JPM.N 2016-12-31  0.245917  0.247917  ...        NaN  not_converged                  NaN                     NaN
+3      JPM.N 2019-12-31  0.161746  0.183146  ...        NaN  not_converged                  NaN                     NaN
+5      JPM.N 2021-12-31  0.321116  0.321516  ...        NaN  not_converged                  NaN                     NaN
+6      JPM.N 2022-12-31 -0.014759 -0.000559  ...        NaN  not_converged                  NaN                     NaN
+9      BAC.N 2017-12-31  0.284170  0.292170  ...        NaN  not_converged                  NaN                     NaN
+
+[5 rows x 41 columns]

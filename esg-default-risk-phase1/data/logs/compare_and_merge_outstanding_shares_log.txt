@@ -1,0 +1,11 @@
+Total rows: 945
+Conflicts: 3
+Only in file1: 0
+Only in file2: 0
+Missing: 0
+
+Conflicts detail:
+Ticker  Year      Date1  Outstanding_Shares_file1  Outstanding_Shares_file2  Final Shares Outstanding                                       Status
+ FRBKQ  2020 2020-12-31                  70411000                58859778.0                  70411000   CONFLICT: file1=70411000, file2=58859778.0
+  FRCB  2020 2020-12-31                 186219008               174123862.0                 186219008 CONFLICT: file1=186219008, file2=174123862.0
+  SBNY  2020 2020-12-31                  62974000                53564573.0                  62974000   CONFLICT: file1=62974000, file2=53564573.0
