@@ -1,8 +1,9 @@
 """
 DD and PD Calculation Using Market Equity Data (Merton Model)
+Market capitalization figures are scaled to millions of dollars to match the accounting data.
 
 Inputs:
-- data/clean/annual_returns_clean.csv (main input)
+- data/clean/annual_returns_clean.csv (main input; monetary values in millions of USD)
 - data/clean/all_banks_marketcap_2016_2023.csv (monthly, with close prices)
 
 Outputs:
@@ -41,7 +42,11 @@ def get_prefix(ticker):
 
 # Load updated monthly market cap file
 marketcap = pd.read_csv('esg-default-risk-phase1/data/clean/all_banks_marketcap_2016_2023.csv')
-marketcap['market_cap'] = marketcap['dec_price'] * marketcap['shares_outstanding']
+# Convert market capitalization to millions of dollars so that it matches the
+# scale of the accounting variables (which are reported in millions USD)
+marketcap['market_cap'] = (
+    marketcap['dec_price'] * marketcap['shares_outstanding'] / 1_000_000
+)
 marketcap['ticker_prefix'] = marketcap['symbol'].apply(get_prefix)
 
 # Load annualized equity volatility
@@ -65,16 +70,20 @@ df = df.merge(marketcap[['symbol', 'Year', 'Month', 'market_cap']], on=['symbol'
 # Market cap fallback
 if 'market_cap' not in df.columns:
     if 'share_price' in df.columns and 'shares_outstanding' in df.columns:
-        df['market_cap'] = df['share_price'] * df['shares_outstanding']
-        market_cap_source = 'share_price * shares_outstanding'
+        df['market_cap'] = (
+            df['share_price'] * df['shares_outstanding'] / 1_000_000
+        )
+        market_cap_source = 'share_price * shares_outstanding (millions)'
     else:
         df['market_cap'] = 'Marketcap_missing'
         market_cap_source = 'missing (set to Marketcap_missing)'
 else:
     market_cap_source = 'market_cap column present'
 
-# === Apply debt scaling: convert debt__total from thousands to dollars ===
-df['debt__total'] = df['debt__total'] * 1_000
+# === Ensure debt is expressed in millions of dollars ===
+# Values in `annual_returns_clean.csv` are already reported in millions USD, so
+# no additional scaling is required. Keep the column as numeric for the solver.
+df['debt__total'] = pd.to_numeric(df['debt__total'], errors='coerce')
 
 # Merge in equity volatility
 merge_cols = ['symbol', 'Year']
