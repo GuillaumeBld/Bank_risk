@@ -16,7 +16,7 @@ outfile = Path("esg-default-risk-phase1/scripts/5_regressions/results/DD_on_ESG_
 
 # Load data
 try:
-df = pd.read_csv(infile)
+    df = pd.read_csv(infile)
 except Exception as e:
     print(f"Error loading input file: {e}")
     exit(1)
