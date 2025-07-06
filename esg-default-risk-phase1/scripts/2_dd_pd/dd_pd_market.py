@@ -13,6 +13,7 @@ Outputs:
 import pandas as pd
 import numpy as np
 from scipy.stats import norm
+from scipy.optimize import root
 from pathlib import Path
 import logging
 
@@ -89,29 +90,34 @@ def get_equity_vol(row):
 
 df['equity_vol'] = df.apply(get_equity_vol, axis=1)
 
-# 2. Merton model iterative estimation
-def merton_solver(row, T=T, tol=1e-6, max_iter=100):
+# 2. Merton model estimation using a numerical root solver
+def merton_solver(row, T=T):
     rf = row['rf']
     E = row['market_cap']
     F = row['debt__total']
     sigma_E = row['equity_vol']
-    if np.isnan(E) or np.isnan(F) or np.isnan(sigma_E) or E <= 0 or F <= 0 or sigma_E <= 0:
+    if np.isnan(E) or np.isnan(F) or np.isnan(sigma_E) or E <= 0 or F < 0 or sigma_E <= 0:
         return np.nan, np.nan, 'input_nan_or_invalid'
-    V = E + F  # initial guess
-    sigma_V = sigma_E
-    for i in range(max_iter):
-        try:
-            d1 = (np.log(V / F) + (rf + 0.5 * sigma_V ** 2) * T) / (sigma_V * np.sqrt(T))
-            d2 = d1 - sigma_V * np.sqrt(T)
-            E_calc = V * norm.cdf(d1) - F * np.exp(-rf * T) * norm.cdf(d2)
-            sigma_E_calc = (V * norm.cdf(d1) * sigma_V) / E_calc if E_calc != 0 else np.nan
-            if np.abs(E - E_calc) < tol and np.abs(sigma_E - sigma_E_calc) < tol:
-                return V, sigma_V, 'converged'
-            V = V - (E_calc - E) * 0.5
-            sigma_V = sigma_V - (sigma_E_calc - sigma_E) * 0.5
-        except Exception as e:
-            return np.nan, np.nan, f'error: {e}'
-    return np.nan, np.nan, 'not_converged'
+    if F == 0:
+        # Zero debt implies infinite distance to default; return equity values directly
+        return E, sigma_E, 'no_debt'
+
+    def equations(x):
+        V, sigma_V = x
+        d1 = (np.log(V / F) + (rf + 0.5 * sigma_V ** 2) * T) / (sigma_V * np.sqrt(T))
+        d2 = d1 - sigma_V * np.sqrt(T)
+        eq1 = V * norm.cdf(d1) - F * np.exp(-rf * T) * norm.cdf(d2) - E
+        eq2 = sigma_E - (V / E) * norm.cdf(d1) * sigma_V
+        return [eq1, eq2]
+
+    try:
+        sol = root(equations, [E + F, sigma_E], method='hybr')
+        if sol.success:
+            return sol.x[0], sol.x[1], 'converged'
+        else:
+            return np.nan, np.nan, 'not_converged'
+    except Exception as e:
+        return np.nan, np.nan, f'error: {e}'
 
 print('[INFO] Running Merton solver for each bank-year...')
 results = df.apply(merton_solver, axis=1)
