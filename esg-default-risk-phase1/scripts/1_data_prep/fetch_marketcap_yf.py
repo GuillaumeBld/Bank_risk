@@ -8,6 +8,7 @@ import yfinance as yf
 import pandas as pd
 import pathlib
 import sys
+import time
 from datetime import datetime, timedelta
 
 DATA_PATH = pathlib.Path('esg-default-risk-phase1/data/raw/annual_returns-5-20-2025.csv')
@@ -23,17 +24,41 @@ tickers = sorted(set(df['Instrument'].dropna().unique()))
 years = list(range(2016, 2024))
 target_dates = [datetime(y, 12, 31) for y in years]
 
-records = []
-with open(LOG_PATH, 'w') as log:
-    for ticker in tickers:
+def fetch_ticker_with_retry(ticker, max_retries=3, base_delay=1.0):
+    """Fetch ticker data with exponential backoff retry logic."""
+    for attempt in range(max_retries):
         try:
             yf_ticker = ticker.split('.')[0]  # Remove .N, .OQ, etc. for yfinance
             t = yf.Ticker(yf_ticker)
             hist = t.history(start='2016-01-01', end='2024-01-10', interval='1d')
             shares = t.info.get('sharesOutstanding', None)
-            if hist.empty or shares is None:
-                log.write(f"No data for {ticker}\n")
-                continue
+            return hist, shares, None
+        except Exception as e:
+            if attempt < max_retries - 1:
+                delay = base_delay * (2 ** attempt)  # Exponential backoff
+                time.sleep(delay)
+            else:
+                return None, None, str(e)
+    return None, None, "Max retries exceeded"
+
+records = []
+with open(LOG_PATH, 'w') as log:
+    for i, ticker in enumerate(tickers):
+        # Rate limiting: add delay between requests
+        if i > 0:
+            time.sleep(0.1)  # 100ms delay between requests
+        
+        hist, shares, error = fetch_ticker_with_retry(ticker)
+        
+        if error:
+            log.write(f"Error fetching {ticker}: {error}\n")
+            continue
+            
+        if hist is None or hist.empty or shares is None:
+            log.write(f"No data for {ticker}\n")
+            continue
+            
+        try:
             hist = hist.reset_index()
             hist['Date'] = pd.to_datetime(hist['Date'])
             for target in target_dates:
@@ -52,7 +77,7 @@ with open(LOG_PATH, 'w') as log:
                     'MarketCap': close * shares if shares is not None else None
                 })
         except Exception as e:
-            log.write(f"Error fetching {ticker}: {e}\n")
+            log.write(f"Error processing data for {ticker}: {e}\n")
 
 result = pd.DataFrame(records)
 result.to_csv(OUTPUT_PATH, index=False)

@@ -68,8 +68,8 @@ if 'market_cap' not in df.columns:
         df['market_cap'] = df['share_price'] * df['shares_outstanding']
         market_cap_source = 'share_price * shares_outstanding'
     else:
-        df['market_cap'] = 'Marketcap_missing'
-        market_cap_source = 'missing (set to Marketcap_missing)'
+        df['market_cap'] = np.nan  # Fixed: Use NaN instead of string to maintain numeric type
+        market_cap_source = 'missing (set to NaN)'
 else:
     market_cap_source = 'market_cap column present'
 
@@ -117,10 +117,31 @@ print('[INFO] Running Merton solver for each bank-year...')
 results = df.apply(merton_solver, axis=1)
 df['asset_value'], df['asset_vol'], df['merton_status'] = zip(*results)
 
-df['distance_to_default'] = (
-    np.log(df['asset_value'] / df['debt__total']) + (df['rf'] - 0.5 * df['asset_vol'] ** 2) * T
-) / (df['asset_vol'] * np.sqrt(T))
-df['probability_of_default'] = norm.cdf(-df['distance_to_default'])
+# Calculate distance to default with proper validation
+def safe_distance_to_default(row):
+    """Calculate distance to default with proper validation for edge cases."""
+    asset_value = row['asset_value']
+    debt_total = row['debt__total']
+    rf = row['rf']
+    asset_vol = row['asset_vol']
+    
+    # Check for invalid inputs
+    if (pd.isna(asset_value) or pd.isna(debt_total) or pd.isna(rf) or pd.isna(asset_vol) or
+        asset_value <= 0 or debt_total <= 0 or asset_vol <= 0):
+        return np.nan
+    
+    try:
+        dd = (
+            np.log(asset_value / debt_total) + (rf - 0.5 * asset_vol ** 2) * T
+        ) / (asset_vol * np.sqrt(T))
+        return dd
+    except (ZeroDivisionError, ValueError, OverflowError):
+        return np.nan
+
+df['distance_to_default'] = df.apply(safe_distance_to_default, axis=1)
+df['probability_of_default'] = df['distance_to_default'].apply(
+    lambda dd: norm.cdf(-dd) if not pd.isna(dd) else np.nan
+)
 
 df.to_csv(output_fp, index=False)
 
