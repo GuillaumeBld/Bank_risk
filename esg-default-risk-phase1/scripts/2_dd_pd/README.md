@@ -4,7 +4,7 @@ This folder contains scripts for calculating Distance to Default (DD) and Probab
 
 ## Overview
 - **Main Goal:** Compute robust, monthly DD and PD estimates for each bank using market and balance sheet data.
-- **Approach:** Uses the Merton model, iterative asset value/volatility estimation, and monthly market cap with close prices.
+ - **Approach:** Uses the Merton model with a numerical root solver to estimate asset value/volatility and monthly market cap with close prices.
 - **Inputs:** Cleaned modeling data, monthly returns, monthly market cap, and close prices.
 - **Outputs:** Monthly DD/PD panel, diagnostics, and QC plots.
 
@@ -26,7 +26,7 @@ This folder contains scripts for calculating Distance to Default (DD) and Probab
 - Loads modeling data, monthly returns, and monthly market cap (with close prices).
 - Merges all data to monthly frequency, aligns dates, and computes market cap.
 - Calculates annualized equity volatility for each bank-year.
-- Runs an iterative Merton solver to estimate asset value and asset volatility.
+ - Runs a numerical root-based Merton solver to estimate asset value and asset volatility.
 - Computes DD and PD for each row.
 - Outputs a detailed CSV and a log with diagnostics and missing data info.
 
